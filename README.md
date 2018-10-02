@@ -19,4 +19,4 @@ More information at [http://authoracoin.com](http://authoracoin.com)
 | Maturation Time             | 30 Blocks     |
 | Min Stake Age               | 1 hour        |
 | Max Coin Supply             | 100M ATH      |
-| Premine                     | 125000  ATH   |
+| Premine                     | 175000  ATH   |
