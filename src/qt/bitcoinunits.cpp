@@ -46,7 +46,7 @@ QString BitcoinUnits::id(int unit)
     case mATHR:
         return QString("mathr");
     case uATHR:
-        return QString::fromUtf8("uATHR");
+        return QString::fromUtf8("uathr");
     default:
         return QString("???");
     }
