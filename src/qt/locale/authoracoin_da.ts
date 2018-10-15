@@ -62,11 +62,11 @@
         <translation>Modtageradresse</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Dine adresser til at sende betalinger med. Kontroller altid både beløb og modtageradresse før afsendelse.</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Dette er dine modtager adresser. Det anbefales at anvende en ny adresse til hver transaktion</translation>
     </message>
     <message>
@@ -176,7 +176,7 @@
         <translation>Bekræft, og tegnebogen krypteres.</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
         <translation>Authoracoin vil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
     </message>
     <message>
@@ -184,8 +184,8 @@
         <translation>Er du sikker på, at du vil kryptere din tegnebog?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
-        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE ATH&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
+        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE ATHR&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>BIP 38 kryptografering</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Indtast den ATH adresse De ønsker at kryptografere ved hjælp af BIP 38. Indtast et kodeord i den midterste boks. Klik på krypter for at generere den kryptograferede private nøgle.</translation>
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Indtast den ATHR adresse De ønsker at kryptografere ved hjælp af BIP 38. Indtast et kodeord i den midterste boks. Klik på krypter for at generere den kryptograferede private nøgle.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>Den ATH adresse, der skal bruges til at underskrive beskeden med.</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>Den ATHR adresse, der skal bruges til at underskrive beskeden med.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Underskriv beskeden for at bevise, at De ejer denne ATH adresse.</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Underskriv beskeden for at bevise, at De ejer denne ATHR adresse.</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Indtast den krypterede BIP 38 nøgle. Indtast kodeordet i den midterste boks. Klik på dekryptér for at generere den private nøgle. Når nøglen er dekrypteret vil klip på "importér adresse" overføre den private nøgle til tegnebogen.</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>Beskeden er underskrevet med denne ATH adresse</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>Beskeden er underskrevet med denne ATHR adresse</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige ATH adresse.</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige ATHR adresse.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,8 +602,8 @@
         <translation>Authoracoin kerne</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Send mønter til en ATH adresse</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Send mønter til en ATHR adresse</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and authoracoin: URIs)</source>
@@ -630,12 +630,12 @@
         <translation>Ret konfigurationsindstillinger for Authoracoin</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
-        <translation>Underskriv beskeder med Deres ATH adresser for at bekræfte at De ejer dem.</translation>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
+        <translation>Underskriv beskeder med Deres ATHR adresser for at bekræfte at De ejer dem.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne ATH adresse</translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne ATHR adresse</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -983,8 +983,8 @@ Adresse: %4
         <translation>middelhøj</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uATH per input.</source>
-        <translation>kan variere +/- %1 uATH pr. input</translation>
+        <source>Can vary +/- %1 uATHR per input.</source>
+        <translation>kan variere +/- %1 uATHR pr. input</translation>
     </message>
     <message>
         <source>medium</source>
@@ -1098,8 +1098,8 @@ Adresse: %4
         <translation>Ret afsenderadresse</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid ATH address.</source>
-        <translation>Den indtastede adresse %1 er ikke en gyldig ATH adresse</translation>
+        <source>The entered address "%1" is not a valid ATHR address.</source>
+        <translation>Den indtastede adresse %1 er ikke en gyldig ATHR adresse</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1361,12 +1361,12 @@ Adresse: %4
         <translation>Indtast modtageradresse</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATH addresses after it matures.
-To Add: enter percentage to give and ATH address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATHR addresses after it matures.
+To Add: enter percentage to give and ATHR address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre ATH adressater når den er tilstrækkelig stor.
-For at tilføje: Indtast procentsatsen De ønsker at overføre samt den ATH adresse som skal modtage via Multisendsystemet.
+        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre ATHR adressater når den er tilstrækkelig stor.
+For at tilføje: Indtast procentsatsen De ønsker at overføre samt den ATHR adresse som skal modtage via Multisendsystemet.
 For at fjerne: Indtast adressen som skal slettes og klik på slet.
 Multisend vil ikke fungere med mindre systemet er aktiveret.</translation>
     </message>
@@ -1817,7 +1817,7 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Kan ikke starte authoracoin "klik for at betale" systemet</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid ATH address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid ATHR address or malformed URI parameters.</source>
         <translation>URl kan ikke fortolkes! Det kan skyldes en ugyldig adresse, eller forkerte URl parametre.</translation>
     </message>
     <message>
@@ -1903,8 +1903,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Beløb</translation>
     </message>
     <message>
-        <source>Enter a ATH address (e.g. %1)</source>
-        <translation>Indtast en ATH adresse (F.eks. %1)</translation>
+        <source>Enter a ATHR address (e.g. %1)</source>
+        <translation>Indtast en ATHR adresse (F.eks. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2505,8 +2505,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>UTXO størrelse:</translation>
     </message>
     <message>
-        <source>0 ATH</source>
-        <translation>0 ATH</translation>
+        <source>0 ATHR</source>
+        <translation>0 ATHR</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2549,12 +2549,12 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Bekræftelsestid</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uATHs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHs in fee,&lt;br /&gt;while "at least" pays 1000 uATHs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uATHs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uATH i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uATHs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uATHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHRs in fee,&lt;br /&gt;while "at least" pays 1000 uATHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uATHRs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uATHR i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uATHRs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uATHs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHs in fee,&lt;br /&gt;while "total at least" pays 1000 uATHs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uATHs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uATH i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uATHs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uATHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHRs in fee,&lt;br /&gt;while "total at least" pays 1000 uATHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uATHRs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uATHR i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uATHRs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Authoracoin transactions than the network can process.</source>
@@ -2657,8 +2657,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Anvender</translation>
     </message>
     <message>
-        <source>Warning: Invalid ATH address</source>
-        <translation>Advarsel! Ugyldig ATH adresse</translation>
+        <source>Warning: Invalid ATHR address</source>
+        <translation>Advarsel! Ugyldig ATHR adresse</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -2756,8 +2756,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Betal &amp;Til</translation>
     </message>
     <message>
-        <source>The ATH address to send the payment to</source>
-        <translation>ATH adressen, som betalingen skal sendes til</translation>
+        <source>The ATHR address to send the payment to</source>
+        <translation>ATHR adressen, som betalingen skal sendes til</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2846,8 +2846,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>De kan underskrive beskeder med Deres adresser or at bevise ejerskab. Vær forsigtig med at underskrive noget De er usikker på såsom forsøg op at narre Dem til at oplyse Deres identitet. Skriv kun under på noget De kan stå inde for, og som De er enig i. </translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>Den ATH adresse, der skal bruges til at underskrive beskeden med.</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>Den ATHR adresse, der skal bruges til at underskrive beskeden med.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2878,16 +2878,16 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Underskriv beskeden for at bevise, at De ejer denne ATH adresse.</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Underskriv beskeden for at bevise, at De ejer denne ATHR adresse.</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>Beskeden er underskrevet med denne ATH adresse</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>Beskeden er underskrevet med denne ATHR adresse</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige ATH adresse.</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige ATHR adresse.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3481,8 +3481,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Send mønter</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ATH.</source>
-        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1 ATH.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ATHR.</source>
+        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1 ATHR.</translation>
     </message>
 </context>
 <context>
@@ -3612,12 +3612,12 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Udfør en kommando når den bedste blok ændres (%s in cmd erstattes med blok hashen)</translation>
     </message>
     <message>
-        <source>Fees (in ATH/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Gebyrer (in ATH/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
+        <source>Fees (in ATHR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Gebyrer (in ATHR/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in ATH/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Gebyrer (in ATH/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
+        <source>Fees (in ATHR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Gebyrer (in ATHR/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -3736,8 +3736,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Authoracoin ALARM!" e-mail@adminis
         <translation>Det var ikke muligt at forbinde %s på denne computer. Authoracoin kører sandsynligvis allerede.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 ATH.</source>
-        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 ATH.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 ATHR.</source>
+        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 ATHR.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4012,8 +4012,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Authoracoin ALARM!" e-mail@adminis
         <translation>Læsning af blokken mislykkedes</translation>
     </message>
     <message>
-        <source>Fee (in ATH/kB) to add to transactions you send (default: %s)</source>
-        <translation>Gebyr (i ATH/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
+        <source>Fee (in ATHR/kB) to add to transactions you send (default: %s)</source>
+        <translation>Gebyr (i ATHR/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

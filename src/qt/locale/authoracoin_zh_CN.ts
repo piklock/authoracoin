@@ -62,11 +62,11 @@
         <translation>接收地址</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>这是用于发送SP的地址。在发送SP之前，请认真核查发送金额和接收地址。</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>这是用于接收SP的钱包地址。建议每一笔交易都使用一个新的钱包地址。</translation>
     </message>
     <message>
@@ -176,15 +176,15 @@
         <translation>确认钱包加密</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
-        <translation>Authoracoin将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取ATHs。</translation>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
+        <translation>Authoracoin将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取ATHRs。</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>您确定加密您的钱包吗？</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
         <translation>注意：请妥善保管好你的密码，因为在加密后，没有密码将无法打开钱包。这将会让您&lt;b&gt;损失钱包中所有的SP&lt;/b&gt;！</translation>
     </message>
     <message>
@@ -239,7 +239,7 @@
         <translation>&amp;BIP 38 加密</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation>输入您要使用BIP 38加密的SP地址。在中间框中输入密码。按加密计算加密私钥。</translation>
     </message>
     <message>
@@ -247,7 +247,7 @@
         <translation>地址：</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
+        <source>The ATHR address to sign the message with</source>
         <translation>该SP地址签名的消息</translation>
     </message>
     <message>
@@ -279,7 +279,7 @@
         <translation>将当前签名复制到系统剪贴板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
+        <source>Sign the message to prove you own this ATHR address</source>
         <translation>签署消息以证明您拥有此SP地址</translation>
     </message>
     <message>
@@ -303,11 +303,11 @@
         <translation>输入BIP 38加密私钥。 在中间框中输入密码。 单击解密密钥计算私钥。 密钥解密后，单击“导入地址”将将该私钥添加到钱包中。</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
+        <source>The ATHR address the message was signed with</source>
         <translation>由SP地址签名的消息</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
         <translation>验证消息确保它已使用指定的SP地址进行签名</translation>
     </message>
     <message>
@@ -602,7 +602,7 @@
         <translation>Authoracoin 核心</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
+        <source>Send coins to a ATHR address</source>
         <translation>发送数字货币到SP地址</translation>
     </message>
     <message>
@@ -630,11 +630,11 @@
         <translation>修改Authoracoin的配置选项</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
         <translation>使用您的SP地址验证消息，以证明您拥有他们</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
         <translation>验证消息确保它已使用指定的SP地址进行签名</translation>
     </message>
     <message>
@@ -1278,7 +1278,7 @@ Address: %4
         <translation>您可以使用地址签名消息，以证明您拥有他们。 小心不要签名任何您不了解的，因为网络钓鱼攻击可能会试图欺骗您，以让您签名。 只能签署您熟悉并且了解和同意的。</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
+        <source>The ATHR address to sign the message with</source>
         <translation>该SP地址签名的消息</translation>
     </message>
     <message>
@@ -1306,15 +1306,15 @@ Address: %4
         <translation>将当前签名复制到系统剪贴板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
+        <source>Sign the message to prove you own this ATHR address</source>
         <translation>签署消息以证明您拥有此SP地址</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
+        <source>The ATHR address the message was signed with</source>
         <translation>由SP地址签名的消息</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
         <translation>验证消息确保它已使用指定的SP地址进行签名</translation>
     </message>
     <message>

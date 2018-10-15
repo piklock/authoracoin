@@ -62,12 +62,12 @@
         <translation>Vastaanottavat osoitteet</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun ATH osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun ATHR osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun ATH osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
+        <source>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun ATHR osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,7 +172,7 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
         <translation>Authoracoin sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella SPien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
@@ -180,7 +180,7 @@
         <translation>Oletko varma että tahdot salata lompakkosi?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
         <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki SPisi&lt;/b&gt;</translation>
     </message>
     <message>
@@ -235,8 +235,8 @@
         <translation>&amp;BIP 38 Salaus</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Syötä ATH osoite, jonnka tahtoisit salata käyttäen BIP 38.
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Syötä ATHR osoite, jonnka tahtoisit salata käyttäen BIP 38.
 Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityisavaimen.</translation>
     </message>
     <message>
@@ -244,8 +244,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Osoite:</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>ATH osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>ATHR osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -276,8 +276,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän ATH osoitteen</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän ATHR osoitteen</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -300,12 +300,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Syötä BIP 38 salattu yksityisavain. Syötä salausavain laatikkoon. Paina Avaa Salaus tuottaaksesi yksityisavaimen. Kun avain on dekryptattu, painamalla "Import osoite" lisää tämän yksityisavaimen lompakkoon.</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>ATH osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>ATHR osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla ATH osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla ATHR osoitteella.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -595,8 +595,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Authoracoin Ydin</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Lähetä kolikkoja ATH osoitteeseen</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Lähetä kolikkoja ATHR osoitteeseen</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and authoracoin: URIs)</source>
@@ -623,12 +623,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Muokkaa konfiguraatio vaihtoehtoja Authoracoin:lle</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
         <translation>Allekirjoita viestejä todistaaksesi, että omistat ne.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä ATH osoiteella.</translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä ATHR osoiteella.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -1756,8 +1756,8 @@ Please check the address and try again.</source>
         <translation>Muutos:</translation>
     </message>
     <message>
-        <source>0 ATH</source>
-        <translation>0 ATH</translation>
+        <source>0 ATHR</source>
+        <translation>0 ATHR</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1840,8 +1840,8 @@ Please check the address and try again.</source>
         <translation>käyttää</translation>
     </message>
     <message>
-        <source>Warning: Invalid ATH address</source>
-        <translation>Varoitus: Virheellinen ATH osoite</translation>
+        <source>Warning: Invalid ATHR address</source>
+        <translation>Varoitus: Virheellinen ATHR osoite</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -1879,8 +1879,8 @@ Please check the address and try again.</source>
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The ATH address to send the payment to</source>
-        <translation>ATH osoite johon maksu lähetetään</translation>
+        <source>The ATHR address to send the payment to</source>
+        <translation>ATHR osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1941,8 +1941,8 @@ Please check the address and try again.</source>
         <translation>Voit allekirjoittaa viestejä osoitteillasi todistaaksesi, että omistat ne. Ole varovainen ettet allekirjoita mitään kummallista, sillä kalasteluyritykset saattavat yrittää huijata sinut luovuttamaan tietoja. Allekirjoita vain täysin yksityiskohtaisia sanomia, jotka hyväksyt.</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>ATH osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>ATHR osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1973,16 +1973,16 @@ Please check the address and try again.</source>
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän ATH osoitteen</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän ATHR osoitteen</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>ATH osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>ATHR osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla ATH osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla ATHR osoitteella.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>

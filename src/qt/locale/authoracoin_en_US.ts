@@ -62,12 +62,12 @@
         <translation>Receiving addresses</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+        <source>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirm wallet encryption</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
-        <translation>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</translation>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
+        <translation>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Are you sure you wish to encrypt your wallet?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
-        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
+        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Encrypt</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</translation>
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Address:</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>The ATH address to sign the message with</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>The ATHR address to sign the message with</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Copy the current signature to the system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Sign the message to prove you own this ATH address</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Sign the message to prove you own this ATHR address</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>The ATH address the message was signed with</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>The ATHR address the message was signed with</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Verify the message to ensure it was signed with the specified ATH address</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Verify the message to ensure it was signed with the specified ATHR address</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -606,8 +606,8 @@
         <translation>Authoracoin Core</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Send coins to a ATH address</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Send coins to a ATHR address</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and authoracoin: URIs)</source>
@@ -634,12 +634,12 @@
         <translation>Modify configuration options for Authoracoin</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
-        <translation>Sign messages with your ATH addresses to prove you own them</translation>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
+        <translation>Sign messages with your ATHR addresses to prove you own them</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Verify messages to ensure they were signed with specified ATH addresses</translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Verify messages to ensure they were signed with specified ATHR addresses</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -1007,8 +1007,8 @@ Address: %4
         <translation>medium-high</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uath per input.</source>
-        <translation>Can vary +/- %1 uath per input.</translation>
+        <source>Can vary +/- %1 uATHR per input.</source>
+        <translation>Can vary +/- %1 uATHR per input.</translation>
     </message>
     <message>
         <source>n/a</source>
@@ -1126,8 +1126,8 @@ Address: %4
         <translation>Edit sending address</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid ATH address.</source>
-        <translation>The entered address "%1" is not a valid ATH address.</translation>
+        <source>The entered address "%1" is not a valid ATHR address.</source>
+        <translation>The entered address "%1" is not a valid ATHR address.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1389,12 +1389,12 @@ Address: %4
         <translation>Enter Address to Send to</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATH addresses after it matures.
-To Add: enter percentage to give and ATH address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATHR addresses after it matures.
+To Add: enter percentage to give and ATHR address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATH addresses after it matures.
-To Add: enter percentage to give and ATH address to add to the MultiSend vector.
+        <translation>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATHR addresses after it matures.
+To Add: enter percentage to give and ATHR address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</translation>
     </message>
@@ -1861,8 +1861,8 @@ Please check the address and try again.</translation>
         <translation>Cannot start authoracoin: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid ATH address or malformed URI parameters.</source>
-        <translation>URI cannot be parsed! This can be caused by an invalid ATH address or malformed URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid ATHR address or malformed URI parameters.</source>
+        <translation>URI cannot be parsed! This can be caused by an invalid ATHR address or malformed URI parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1947,8 +1947,8 @@ Please check the address and try again.</translation>
         <translation>Amount</translation>
     </message>
     <message>
-        <source>Enter a ATH address (e.g. %1)</source>
-        <translation>Enter a ATH address (e.g. %1)</translation>
+        <source>Enter a ATHR address (e.g. %1)</source>
+        <translation>Enter a ATHR address (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2557,8 +2557,8 @@ Please check the address and try again.</translation>
         <translation>UTXO Size:</translation>
     </message>
     <message>
-        <source>0 ATH</source>
-        <translation>0 ATH</translation>
+        <source>0 ATHR</source>
+        <translation>0 ATHR</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2601,12 +2601,12 @@ Please check the address and try again.</translation>
         <translation>Confirmation time:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uATHs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHs in fee,&lt;br /&gt;while "at least" pays 1000 uATHs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>If the custom fee is set to 1000 uATHs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHs in fee,&lt;br /&gt;while "at least" pays 1000 uATHs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uATHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHRs in fee,&lt;br /&gt;while "at least" pays 1000 uATHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>If the custom fee is set to 1000 uATHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHRs in fee,&lt;br /&gt;while "at least" pays 1000 uATHRs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uATHs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHs in fee,&lt;br /&gt;while "total at least" pays 1000 uATHs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>If the custom fee is set to 1000 uATHs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHs in fee,&lt;br /&gt;while "total at least" pays 1000 uATHs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uATHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHRs in fee,&lt;br /&gt;while "total at least" pays 1000 uATHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>If the custom fee is set to 1000 uATHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uATHRs in fee,&lt;br /&gt;while "total at least" pays 1000 uATHRs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Authoracoin transactions than the network can process.</source>
@@ -2709,8 +2709,8 @@ Please check the address and try again.</translation>
         <translation>using</translation>
     </message>
     <message>
-        <source>Warning: Invalid ATH address</source>
-        <translation>Warning: Invalid ATH address</translation>
+        <source>Warning: Invalid ATHR address</source>
+        <translation>Warning: Invalid ATHR address</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -2808,8 +2808,8 @@ Please check the address and try again.</translation>
         <translation>Pay &amp;To:</translation>
     </message>
     <message>
-        <source>The ATH address to send the payment to</source>
-        <translation>The ATH address to send the payment to</translation>
+        <source>The ATHR address to send the payment to</source>
+        <translation>The ATHR address to send the payment to</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2898,8 +2898,8 @@ Please check the address and try again.</translation>
         <translation>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>The ATH address to sign the message with</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>The ATHR address to sign the message with</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2930,16 +2930,16 @@ Please check the address and try again.</translation>
         <translation>Copy the current signature to the system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Sign the message to prove you own this ATH address</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Sign the message to prove you own this ATHR address</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>The ATH address the message was signed with</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>The ATHR address the message was signed with</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Verify the message to ensure it was signed with the specified ATH address</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Verify the message to ensure it was signed with the specified ATHR address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3549,8 +3549,8 @@ Please check the address and try again.</translation>
         <translation>Send Coins</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ATH.</source>
-        <translation>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ATH.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ATHR.</source>
+        <translation>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ATHR.</translation>
     </message>
 </context>
 <context>
@@ -3679,12 +3679,12 @@ Please check the address and try again.</translation>
         <translation>Execute command when the best block changes (%s in cmd is replaced by block hash)</translation>
     </message>
     <message>
-        <source>Fees (in ATH/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Fees (in ATH/Kb) smaller than this are considered zero fee for relaying (default: %s)</translation>
+        <source>Fees (in ATHR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Fees (in ATHR/Kb) smaller than this are considered zero fee for relaying (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in ATH/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Fees (in ATH/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
+        <source>Fees (in ATHR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Fees (in ATHR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -3803,8 +3803,8 @@ for example: alertnotify=echo %%s | mail -s "Authoracoin Alert" admin@foo.com
         <translation>Unable to bind to %s on this computer. Authoracoin Core is probably already running.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 ATH.</source>
-        <translation>Unable to locate enough funds for this transaction that are not equal 10000 ATH.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 ATHR.</source>
+        <translation>Unable to locate enough funds for this transaction that are not equal 10000 ATHR.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4079,8 +4079,8 @@ for example: alertnotify=echo %%s | mail -s "Authoracoin Alert" admin@foo.com
         <translation>Failed to read block</translation>
     </message>
     <message>
-        <source>Fee (in ATH/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in ATH/kB) to add to transactions you send (default: %s)</translation>
+        <source>Fee (in ATHR/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in ATHR/kB) to add to transactions you send (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

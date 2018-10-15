@@ -62,12 +62,12 @@
         <translation>Adresy pro přijetí peněz</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto jsou Vaše ATH adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
+        <source>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto jsou Vaše ATHR adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto jsou Vaše ATH adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
+        <source>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto jsou Vaše ATHR adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,7 +176,7 @@
         <translation>Potvrdit zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
         <translation>Authoracoin se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše SPy před krádží, pokud je Váš počítač infikován malwarem.</translation>
     </message>
     <message>
@@ -184,7 +184,7 @@
         <translation>Opravdu chcete zašifrovat Vaši peněženku?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
         <translation>Varování: Pokud zašifrujete svou peněženku a ztratíte frázové heslo, tak &lt;b&gt;ZTRATÍTE VŠECHNY VAŠE SPy&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Šifrovat</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Zadejte ATH adresu, kterou si přejete zašifrovat pomocí BIP38. Frázové heslo zadejte do prostředního boxu. Stiskněte šifrovat pro výpočet šifrovaného privátního klíče.</translation>
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Zadejte ATHR adresu, kterou si přejete zašifrovat pomocí BIP38. Frázové heslo zadejte do prostředního boxu. Stiskněte šifrovat pro výpočet šifrovaného privátního klíče.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>ATH adresa pro podepsání zprávy</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>ATHR adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto ATH adresu</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto ATHR adresu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Vložte BIP 38 šifrovaný privítní klíc. Frázové heslo vložte do prostředního boxu. Kliknětě na Dešifrovat Klíč pro výpočet privátního klíče. Poté co bude klíč dešifrován, kliknutím na 'Importovat Adresu' přidáte privátní klíč do Vaší peněženky.</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>ATH adresa zprávy byla podpsána</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>ATHR adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou ATH adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou ATHR adresou</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,8 +602,8 @@
         <translation>Authoracoin Core</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Odeslat platbuna ATH adresu</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Odeslat platbuna ATHR adresu</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and authoracoin: URIs)</source>
@@ -626,16 +626,16 @@
         <translation>Zobraz informace o Authoracoin Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for ATH</source>
-        <translation>Upravit možnosti konfigurace pro ATH</translation>
+        <source>Modify configuration options for ATHR</source>
+        <translation>Upravit možnosti konfigurace pro ATHR</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
-        <translation>Podepsat zprávy Vaší ATH adresou pro prokázaní, že jste jejich vlastníkem</translation>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
+        <translation>Podepsat zprávy Vaší ATHR adresou pro prokázaní, že jste jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými ATH adresami</translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými ATHR adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -1062,8 +1062,8 @@ MultiSend: %1</translation>
         <translation>Upravit adresu k odeslání platby</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid ATH address.</source>
-        <translation>Zadaná adresa "%1" není validní ATH adresa.</translation>
+        <source>The entered address "%1" is not a valid ATHR address.</source>
+        <translation>Zadaná adresa "%1" není validní ATHR adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1931,8 +1931,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Změna:</translation>
     </message>
     <message>
-        <source>0 ATH</source>
-        <translation>0 ATH</translation>
+        <source>0 ATHR</source>
+        <translation>0 ATHR</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2060,8 +2060,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>ATH adresa pro podepsání zprávy</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>ATHR adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2088,16 +2088,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto ATH adresu</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto ATHR adresu</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>ATH adresa zprávy byla podpsána</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>ATHR adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou ATH adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou ATHR adresou</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>

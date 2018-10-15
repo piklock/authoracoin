@@ -873,7 +873,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
             ui->labelCoinControlChangeLabel->setText("");
         } else if (!addr.IsValid()) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid ATH address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid ATHR address"));
         } else // Valid address
         {
             CPubKey pubkey;

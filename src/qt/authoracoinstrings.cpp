@@ -81,10 +81,10 @@ QT_TRANSLATE_NOOP("authoracoin-core", ""
 "Execute command when the best block changes (%s in cmd is replaced by block "
 "hash)"),
 QT_TRANSLATE_NOOP("authoracoin-core", ""
-"Fees (in ATH/Kb) smaller than this are considered zero fee for relaying "
+"Fees (in ATHR/Kb) smaller than this are considered zero fee for relaying "
 "(default: %s)"),
 QT_TRANSLATE_NOOP("authoracoin-core", ""
-"Fees (in ATH/Kb) smaller than this are considered zero fee for transaction "
+"Fees (in ATHR/Kb) smaller than this are considered zero fee for transaction "
 "creation (default: %s)"),
 QT_TRANSLATE_NOOP("authoracoin-core", ""
 "Flush database activity from memory pool to disk log every <n> megabytes "
@@ -168,7 +168,7 @@ QT_TRANSLATE_NOOP("authoracoin-core", ""
 "Unable to bind to %s on this computer. Authoracoin Core is probably already running."),
 QT_TRANSLATE_NOOP("authoracoin-core", ""
 "Unable to locate enough funds for this transaction that are not equal 1000 "
-"ATH."),
+"ATHR."),
 QT_TRANSLATE_NOOP("authoracoin-core", ""
 "Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: "
 "%s)"),
@@ -277,7 +277,7 @@ QT_TRANSLATE_NOOP("authoracoin-core", "Failed to listen on any port. Use -listen
 QT_TRANSLATE_NOOP("authoracoin-core", "Failed to read block index"),
 QT_TRANSLATE_NOOP("authoracoin-core", "Failed to read block"),
 QT_TRANSLATE_NOOP("authoracoin-core", "Failed to write block index"),
-QT_TRANSLATE_NOOP("authoracoin-core", "Fee (in ATH/kB) to add to transactions you send (default: %s)"),
+QT_TRANSLATE_NOOP("authoracoin-core", "Fee (in ATHR/kB) to add to transactions you send (default: %s)"),
 QT_TRANSLATE_NOOP("authoracoin-core", "Finalizing transaction."),
 QT_TRANSLATE_NOOP("authoracoin-core", "Force safe mode (default: %u)"),
 QT_TRANSLATE_NOOP("authoracoin-core", "Found enough users, signing ( waiting %s )"),

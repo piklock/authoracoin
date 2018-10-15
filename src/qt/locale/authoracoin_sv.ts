@@ -58,12 +58,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina ATH adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina ATHR adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina ATH adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina ATHR adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -160,16 +160,16 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
-        <translation>Authoracoin kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina ATHs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
+        <translation>Authoracoin kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina ATHRs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
-        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA ATH&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA ATHR&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -223,8 +223,8 @@
         <translation>BIP 38 Kryptering</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ange en ATH adress som du vill kryptera med BIP 38.
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ange en ATHR adress som du vill kryptera med BIP 38.
 Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den krypterade privata nyckeln.</translation>
     </message>
     <message>
@@ -232,8 +232,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>ATH adressen för signera meddelandet med</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>ATHR adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -264,8 +264,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna ATH adress</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna ATHR adress</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -288,12 +288,12 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Ange BIP 38 krypterade privata nyckeln. Ange lösenfrasen i med mittersta boxen. Tryck på krypetra nyckel för att beräkna den privata nyckeln. Efter att nyckeln är avkrypterad, Tryck på 'Importera Adress' kommer att lägga till denna privata nyckel till plånboken.</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>ATH adressen meddelandet blev signerat med</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>ATHR adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ATH adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ATHR adressen.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -587,8 +587,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Authoracoin Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Skicka mynt till en ATH adress</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Skicka mynt till en ATHR adress</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and authoracoin: URIs)</source>
@@ -615,12 +615,12 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Ändra konfigurationsval för Authoracoin</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
-        <translation>Signera meddelanden med din ATH adress för att visa att du äger dem</translation>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
+        <translation>Signera meddelanden med din ATHR adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ATH adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ATHR adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -1095,8 +1095,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>ATH adressen för signera meddelandet med</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>ATHR adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1119,16 +1119,16 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna ATH adress</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna ATHR adress</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>ATH adressen meddelandet blev signerat med</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>ATHR adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ATH adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ATHR adressen.</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>

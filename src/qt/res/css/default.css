@@ -866,7 +866,7 @@ QLabel#bg_logo {
 }
 
 
-QWidget .QFrame#frame_Header { /* Header with Page-Title and ATH-image */
+QWidget .QFrame#frame_Header { /* Header with Page-Title and ATHR-image */
 	min-width:400px;
 	background-color:#ffffff;
 }
@@ -931,7 +931,7 @@ QWidget .QFrame#frameBalances .QLabel#labelImmatureText, /* Immature Balance Lab
 QWidget .QFrame#frameBalances .QLabel#labelTotalText, /* Total Balance Label */
 QWidget .QFrame#frameBalances .QLabel#labelPendingText, /* Pending Balance Label */
 QWidget .QFrame#frameBalances .QLabel#labelBalanceText, /* Available Balance Label */
-QWidget .QFrame#frameBalances .QLabel#labelBalances { /* ATH Balances Header Label */
+QWidget .QFrame#frameBalances .QLabel#labelBalances { /* ATHR Balances Header Label */
 	qproperty-alignment: 'AlignVCenter | AlignLeft';
 	min-width: 160px;
 	color: #333333;
@@ -940,11 +940,11 @@ QWidget .QFrame#frameBalances .QLabel#labelBalances { /* ATH Balances Header Lab
 	font-size: 16px;
 }
 
-QWidget .QFrame#frameBalances .QLabel#labelBalances { /* ATH Balances Header Label */
+QWidget .QFrame#frameBalances .QLabel#labelBalances { /* ATHR Balances Header Label */
 	font-weight: bold;
 }
 
-QWidget .QFrame#frameBalances #lineBalances { /* ATH Balances Line separator */
+QWidget .QFrame#frameBalances #lineBalances { /* ATHR Balances Line separator */
 	background-color:#59C3EC;
 }
 

@@ -152,16 +152,16 @@
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
-        <translation>Authoracoin va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos ATHs d'un vol par un malware ayant infecté votre ordinateur. </translation>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
+        <translation>Authoracoin va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos ATHRs d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Êtes-vous sûr de vouloir crypter votre portefeuille?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
-        <translation>Attention : si vous cryptez votre portefeuille et perdez votre phrase secrète, vous &lt;b&gt;PERDREZ TOUS VOS ATH&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
+        <translation>Attention : si vous cryptez votre portefeuille et perdez votre phrase secrète, vous &lt;b&gt;PERDREZ TOUS VOS ATHR&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -211,16 +211,16 @@
         <translation>BIP 38 crypter</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Entrez une adresse ATH que vous voulez crypter en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Entrez une adresse ATHR que vous voulez crypter en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresse :</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>L'adresse ATH avec laquelle signer le message</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>L'adresse ATHR avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -251,8 +251,8 @@
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Signer le message pour prouver que vous possédez cette adresse ATH</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Signer le message pour prouver que vous possédez cette adresse ATHR</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -271,12 +271,12 @@
         <translation>BIP 38 Décrypter</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>L'adresse ATH avec laquelle le message a été signé</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>L'adresse ATHR avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse ATH renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse ATHR renseignée</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -534,8 +534,8 @@
         <translation>&amp;Aide</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Envoyer des pièces à une adresse ATH</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Envoyer des pièces à une adresse ATHR</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -546,16 +546,16 @@
         <translation>Afficher les masternodes</translation>
     </message>
     <message>
-        <source>Modify configuration options for ATH</source>
-        <translation>Modifier les options de configuration pour ATH</translation>
+        <source>Modify configuration options for ATHR</source>
+        <translation>Modifier les options de configuration pour ATHR</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
-        <translation>Signer les messages avec votre adresse ATH pour prouver qu'elles sont bien à vous.</translation>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
+        <translation>Signer les messages avec votre adresse ATHR pour prouver qu'elles sont bien à vous.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse ATH spécifié</translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse ATHR spécifié</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -854,8 +854,8 @@ Adresse : %4
         <translation>Modifier l'adresse d'envoi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid ATH address.</source>
-        <translation>L'adresse entrée "%1" n'est pas une adresse ATH valide</translation>
+        <source>The entered address "%1" is not a valid ATHR address.</source>
+        <translation>L'adresse entrée "%1" n'est pas une adresse ATHR valide</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1319,8 +1319,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Après commission</translation>
     </message>
     <message>
-        <source>0 ATH</source>
-        <translation>0 ATH</translation>
+        <source>0 ATHR</source>
+        <translation>0 ATHR</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -1402,8 +1402,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Payer à :</translation>
     </message>
     <message>
-        <source>The ATH address to send the payment to</source>
-        <translation>L'adresse ATH à laquelle envoyer le paiement</translation>
+        <source>The ATHR address to send the payment to</source>
+        <translation>L'adresse ATHR à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1448,8 +1448,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Signer le message</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>L'adresse ATH avec laquelle signer le message</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>L'adresse ATHR avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1476,16 +1476,16 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Signer le message pour prouver que vous possédez cette adresse ATH</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Signer le message pour prouver que vous possédez cette adresse ATHR</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>L'adresse ATH avec laquelle le message a été signé</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>L'adresse ATHR avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse ATH renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse ATHR renseignée</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>

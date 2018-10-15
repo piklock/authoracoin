@@ -38,7 +38,7 @@ namespace GUIUtil
 QString dateTimeStr(const QDateTime& datetime);
 QString dateTimeStr(qint64 nTime);
 
-// Render ATH addresses in monospace font
+// Render ATHR addresses in monospace font
 QFont bitcoinAddressFont();
 
 // Set up widgets for address and amounts

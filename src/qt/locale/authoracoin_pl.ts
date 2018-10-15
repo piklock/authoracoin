@@ -144,8 +144,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE ATH!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE ATHR!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -223,8 +223,8 @@
         <translation>Zakodowany klucz:</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres ATH jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres ATHR jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -518,8 +518,8 @@
         <translation>&amp;Rdzeń Authoracoin</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Wyślij monety do adresu ATH</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Wyślij monety do adresu ATHR</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and authoracoin: URIs)</source>
@@ -546,12 +546,12 @@
         <translation>Modyfikuj opcje konfiguracji Authoracoin</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami ATH, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami ATHR, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu ATH</translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu ATHR</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -1361,8 +1361,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a ATH address (e.g. %1)</source>
-        <translation>Wprowadź adres ATH (np. %1)</translation>
+        <source>Enter a ATHR address (e.g. %1)</source>
+        <translation>Wprowadź adres ATHR (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1800,8 +1800,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres ATH jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres ATHR jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>

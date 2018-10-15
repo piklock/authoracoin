@@ -53,12 +53,14 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 //    timestamp before)
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
-    boost::assign::map_list_of (0, uint256("0x000009411fe9341392a7fc47bdb5759bcfb7e2053e2172b2a96f33bf61736708"));
+    boost::assign::map_list_of
+		(0, uint256("0x000009411fe9341392a7fc47bdb5759bcfb7e2053e2172b2a96f33bf61736708"));
+		(18391, uint256("0x2da47f4141966341d4e11e10dcc8de720d5873055136658fbc6fe2ec6f1a8841"));
 
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1538474400, // * UNIX timestamp of last checkpoint block
-    0,          // * total number of transactions between genesis and last checkpoint
+    1539586040, // * UNIX timestamp of last checkpoint block
+    40785,          // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     2000        // * estimated number of transactions per day after checkpoint
 };
@@ -114,7 +116,7 @@ public:
 
         /** Height or Time Based Activations **/
         nLastPOWBlock = 300;
-        nModifierUpdateBlock = 1; // we use the version 2 for ATH
+        nModifierUpdateBlock = 1; // we use the version 2 for ATHR
 
         /**
         python ~/GenesisH0new/genesis.py -a quark-hash -z "Poloniex exchange have launched their official trading app for iOS and Android" -t 1538474400 -p 042f8d34b56ecc2833ab4117a9a1d60cc16f2bdbaea320de00a4d32d0e1ca63466127d844f8a633817f1cab201f86aeb572284351fd0757dbf65cc6aad7fae8f76 -v 0

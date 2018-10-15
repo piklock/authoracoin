@@ -62,12 +62,12 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши ATH-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
+        <source>These are your ATHR addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши ATHR-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
     </message>
     <message>
-        <source>These are your ATH addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши ATH-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
+        <source>These are your ATHR addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши ATHR-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,16 +168,16 @@
         <translation>Подтверждение шифрования кошелька</translation>
     </message>
     <message>
-        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHs from being stolen by malware infecting your computer.</source>
-        <translation>Authoracoin сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши ATH от кражи с использованием вредоносного ПО.</translation>
+        <source>Authoracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ATHRs from being stolen by malware infecting your computer.</source>
+        <translation>Authoracoin сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши ATHR от кражи с использованием вредоносного ПО.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Вы действительно хотите зашифровать свой кошелек?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATH&lt;/b&gt;!</source>
-        <translation>Внимание: если вы зашифруете свой кошелёк и потеряете от него пароль, то вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ СВОИ ATH&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ATHR&lt;/b&gt;!</source>
+        <translation>Внимание: если вы зашифруете свой кошелёк и потеряете от него пароль, то вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ СВОИ ATHR&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -231,16 +231,16 @@
         <translation>&amp;BIP 38 Шифрование</translation>
     </message>
     <message>
-        <source>Enter a ATH Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Введите ATH адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
+        <source>Enter a ATHR Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Введите ATHR адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Адрес:</translation>
     </message>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>Адрес ATH для подписи сообщения с помощью</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>Адрес ATHR для подписи сообщения с помощью</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -271,8 +271,8 @@
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Подпишите сообщение, чтобы подтвердить свой адрес ATH</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Подпишите сообщение, чтобы подтвердить свой адрес ATHR</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -295,12 +295,12 @@
         <translation>Введите зашифрованный с помощью BIP 38 секретный ключ. Введите секретную фразу в среднем окне. Нажмите Дешифровать Ключ чтобы создать секретный ключ. Нажав на Импортировать Адрес после дешифровки, вы добавите секретный ключ к кошельку.</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>Адрес ATH, которым подписано сообщение</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>Адрес ATHR, которым подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным ATH адресом </translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным ATHR адресом </translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -594,8 +594,8 @@
         <translation>Authoracoin Core</translation>
     </message>
     <message>
-        <source>Send coins to a ATH address</source>
-        <translation>Отправить монеты на ATH адрес</translation>
+        <source>Send coins to a ATHR address</source>
+        <translation>Отправить монеты на ATHR адрес</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and authoracoin: URIs)</source>
@@ -622,12 +622,12 @@
         <translation>Изменение параметров конфигурации Authoracoin</translation>
     </message>
     <message>
-        <source>Sign messages with your ATH addresses to prove you own them</source>
-        <translation>Подписывайте сообщения вашими ATH адресами, чтобы доказать, что вы их владелец</translation>
+        <source>Sign messages with your ATHR addresses to prove you own them</source>
+        <translation>Подписывайте сообщения вашими ATHR адресами, чтобы доказать, что вы их владелец</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ATH addresses</source>
-        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным ATH адресом </translation>
+        <source>Verify messages to ensure they were signed with specified ATHR addresses</source>
+        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным ATHR адресом </translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -975,8 +975,8 @@ MultiSend: %1</translation>
         <translation>средне-высокий</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uath per input.</source>
-        <translation>Может вариировать +/- %1 uath к вводу</translation>
+        <source>Can vary +/- %1 uATHR per input.</source>
+        <translation>Может вариировать +/- %1 uATHR к вводу</translation>
     </message>
     <message>
         <source>medium</source>
@@ -1090,8 +1090,8 @@ MultiSend: %1</translation>
         <translation>Изменить адрес отправки</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid ATH address.</source>
-        <translation>Введенный адрес "%1" не является ATH адресом.</translation>
+        <source>The entered address "%1" is not a valid ATHR address.</source>
+        <translation>Введенный адрес "%1" не является ATHR адресом.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1353,12 +1353,12 @@ MultiSend: %1</translation>
         <translation>Введите адрес для отправки</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATH addresses after it matures.
-To Add: enter percentage to give and ATH address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ATHR addresses after it matures.
+To Add: enter percentage to give and ATHR address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие ATH адреса.
-Для добавления: введите передаваемый процент и ATH адрес для добавления к вектору MultiSend.
+        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие ATHR адреса.
+Для добавления: введите передаваемый процент и ATHR адрес для добавления к вектору MultiSend.
 Для удаления: введите удаляемый адрес и нажмите удалить.
 MultiSend будет неактивен до тех пор, пока вы не нажмете Включить</translation>
     </message>
@@ -1809,8 +1809,8 @@ Please check the address and try again.</source>
         <translation>Не удалось запустить authoracoin: обработчик click-to-pay </translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid ATH address or malformed URI parameters.</source>
-        <translation>URI не интерпретируется! Причиной этому может быть неверный ATH адрес или неверные параметеры URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid ATHR address or malformed URI parameters.</source>
+        <translation>URI не интерпретируется! Причиной этому может быть неверный ATHR адрес или неверные параметеры URI.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1895,8 +1895,8 @@ Please check the address and try again.</source>
         <translation>Сумма</translation>
     </message>
     <message>
-        <source>Enter a ATH address (e.g. %1)</source>
-        <translation>Введите адрес ATH (например %1)</translation>
+        <source>Enter a ATHR address (e.g. %1)</source>
+        <translation>Введите адрес ATHR (например %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2410,8 +2410,8 @@ Please check the address and try again.</source>
         <translation>Изменить:</translation>
     </message>
     <message>
-        <source>0 ATH</source>
-        <translation>0 ATH</translation>
+        <source>0 ATHR</source>
+        <translation>0 ATHR</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2490,8 +2490,8 @@ Please check the address and try again.</source>
         <translation>Копировать изменение</translation>
     </message>
     <message>
-        <source>Warning: Invalid ATH address</source>
-        <translation>Предупреждение: неправильный ATH адрес</translation>
+        <source>Warning: Invalid ATHR address</source>
+        <translation>Предупреждение: неправильный ATHR адрес</translation>
     </message>
     <message>
         <source>and SwiftTX</source>
@@ -2555,8 +2555,8 @@ Please check the address and try again.</source>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The ATH address to sign the message with</source>
-        <translation>Адрес ATH для подписи сообщения с помощью</translation>
+        <source>The ATHR address to sign the message with</source>
+        <translation>Адрес ATHR для подписи сообщения с помощью</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2579,16 +2579,16 @@ Please check the address and try again.</source>
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ATH address</source>
-        <translation>Подпишите сообщение, чтобы подтвердить свой адрес ATH</translation>
+        <source>Sign the message to prove you own this ATHR address</source>
+        <translation>Подпишите сообщение, чтобы подтвердить свой адрес ATHR</translation>
     </message>
     <message>
-        <source>The ATH address the message was signed with</source>
-        <translation>Адрес ATH, которым подписано сообщение</translation>
+        <source>The ATHR address the message was signed with</source>
+        <translation>Адрес ATHR, которым подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ATH address</source>
-        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным ATH адресом </translation>
+        <source>Verify the message to ensure it was signed with the specified ATHR address</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным ATHR адресом </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>

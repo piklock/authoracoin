@@ -19,9 +19,9 @@ BITCOIN_TX_NAME=authoracoin-tx
 
 AC_CANONICAL_HOST
 
-AH_TOP([#ifndef ATH_CONFIG_H])
-AH_TOP([#define ATH_CONFIG_H])
-AH_BOTTOM([#endif //ATH_CONFIG_H])
+AH_TOP([#ifndef ATHR_CONFIG_H])
+AH_TOP([#define ATHR_CONFIG_H])
+AH_BOTTOM([#endif //ATHR_CONFIG_H])
 
 dnl faketime breaks configure and is only needed for make. Disable it here.
 unset FAKETIME

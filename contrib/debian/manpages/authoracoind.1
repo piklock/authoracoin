@@ -91,7 +91,7 @@ Returns the account associated with the given address.
 Sets the ['account'] associated with the given address. ['account'] may be omitted to remove an address from ['account'].
 .TP
 \fBgetaccountaddress 'account'\fR
-Returns a new ath address for 'account'.
+Returns a new athr address for 'account'.
 .TP
 \fBgetaddressesbyaccount 'account'\fR
 Returns the list of addresses associated with the given 'account'.
@@ -112,7 +112,7 @@ Returns the number of connections to other nodes.
 Returns the proof-of-work difficulty as a multiple of the minimum difficulty.
 .TP
 \fBgetgenerate\fR
-Returns boolean true if server is trying to generate ATH, false otherwise.
+Returns boolean true if server is trying to generate ATHR, false otherwise.
 .TP
 \fBsetgenerate 'generate' ['genproclimit']\fR
 Generation is limited to ['genproclimit'] processors, \-1 is unlimited.
@@ -124,7 +124,7 @@ Returns a recent hashes per second performance measurement while generating.
 Returns an object containing server information.
 .TP
 \fBgetnewaddress 'account'\fR
-Returns a new ath address for receiving payments. If 'account' is specified (recommended), it is added to the address book so payments received with the address will be credited to 'account'.
+Returns a new athr address for receiving payments. If 'account' is specified (recommended), it is added to the address book so payments received with the address will be credited to 'account'.
 .TP
 \fBgetreceivedbyaccount 'account' ['minconf=1']\fR
 Returns the total amount received by addresses associated with 'account' in transactions with at least ['minconf'] confirmations.
@@ -148,7 +148,7 @@ List commands, or get help for a command.
 .TP
 \fBlistaccounts ['minconf=1']\fR
 List accounts and their current balances.
-     *note: requires ath 1.0.0.1 or later.
+     *note: requires athr 1.0.0.1 or later.
 .TP
 \fBlistreceivedbyaccount ['minconf=1'] ['includeempty=false']\fR
 ['minconf'] is the minimum number of confirmations before payments are included. ['includeempty'] whether to include addresses that haven't received any payments. Returns an array of objects containing:
@@ -183,7 +183,7 @@ Returns a list of the last ['count'] transactions for 'account' \- for all accou
 Moves funds between accounts.
 .TP
 \fBsendfrom* <'account'> <'athaddress'> <'amount'> ['minconf=1'] ['comment'] ['comment-to']\fR
-Sends amount from account's balance to 'athaddress'. This method will fail if there is less than amount ATH with ['minconf'] confirmations in the account's balance (unless account is the empty-string-named default account; it behaves like the *sendtoaddress* method). Returns transaction ID on success.
+Sends amount from account's balance to 'athaddress'. This method will fail if there is less than amount ATHR with ['minconf'] confirmations in the account's balance (unless account is the empty-string-named default account; it behaves like the *sendtoaddress* method). Returns transaction ID on success.
 .TP
 \fBsendtoaddress 'athaddress' 'amount' ['comment'] ['comment-to']\fR
 Sends amount from the server's available balance to 'athaddress'. amount is a real and is rounded to the nearest 0.01. Returns transaction id on success.
@@ -192,7 +192,7 @@ Sends amount from the server's available balance to 'athaddress'. amount is a re
 Stops the authoracoin server.
 .TP
 \fBvalidateaddress 'athaddress'\fR
-Checks that 'athaddress' looks like a proper ath address. Returns an object containing:
+Checks that 'athaddress' looks like a proper athr address. Returns an object containing:
 
     "isvalid" : true or false.
     "ismine"  : true if the address is in the server's wallet.

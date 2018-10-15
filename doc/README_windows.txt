@@ -3,7 +3,7 @@ Authoracoin Core
 
 Intro
 -----
-Authoracoin (ATH) is a sustainable cryptocurrency modeled after 
+Authoracoin (ATHR) is a sustainable cryptocurrency modeled after 
 Satoshi Nakamoto’s vision for Bitcoin. It is a decentralized, 
 peer-to-peer transactional currency designed to offer a solution to the problem posed 
 by the exponential increase in energy consumed by Bitcoin and other proof-of-work currencies. 
