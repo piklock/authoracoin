@@ -44,7 +44,7 @@ QString BitcoinUnits::id(int unit)
     case ATHR:
         return QString("athr");
     case mATHR:
-        return QString("math");
+        return QString("mathr");
     case uATHR:
         return QString::fromUtf8("uATHR");
     default:
@@ -61,18 +61,18 @@ QString BitcoinUnits::name(int unit)
         case mATHR:
             return QString("mATHR");
         case uATHR:
-            return QString::fromUtf8("μATH");
+            return QString::fromUtf8("μATHR");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
         case ATHR:
-            return QString("tATH");
+            return QString("tATHR");
         case mATHR:
-            return QString("mtATH");
+            return QString("mtATHR");
         case uATHR:
-            return QString::fromUtf8("μtATH");
+            return QString::fromUtf8("μtATHR");
         default:
             return QString("???");
         }
@@ -95,11 +95,11 @@ QString BitcoinUnits::description(int unit)
     } else {
         switch (unit) {
         case ATHR:
-            return QString("TestATHRs");
+            return QString("TestATHR");
         case mATHR:
-            return QString("Milli-TestATH (1 / 1" THIN_SP_UTF8 "000)");
+            return QString("Milli-TestATHR (1 / 1" THIN_SP_UTF8 "000)");
         case uATHR:
-            return QString("Micro-TestATH (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            return QString("Micro-TestATHR (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
